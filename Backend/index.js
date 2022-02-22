@@ -11,6 +11,13 @@ app.get('/all_products', function (req, res) {
   })
 
 
+app.get('/all_products/:id', function (req, res) {
+    const singleproduct = ProductsData.find((item)=>item._pid == req.params.id)
+    res.send(singleproduct)
+  })
+
+
+
 app.listen(8000,()=>{
     console.log("connected")
 })
