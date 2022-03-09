@@ -9,8 +9,8 @@ const ProductsData = [
         slug:"Shirt",
         img:"/images/d1.png",
         stock:12,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"Wardrobe",
     },
     {
         pname:"Four Door Wardrobe",
@@ -22,8 +22,8 @@ const ProductsData = [
         slug:"Pant",
         img:"/images/d2.png",
         stock:33,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"sofa"
     },
     {
         pname:"Orange Classic Sofa",
@@ -35,8 +35,8 @@ const ProductsData = [
         slug:"Lunggi",
         img:"/images/d10.png",
         stock:0,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"sofa"
     },
     {
         pname:"Royal Ash Sofa",
@@ -48,8 +48,8 @@ const ProductsData = [
         slug:"MensShoe",
         img:"/images/d4.png",
         stock:24,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"stool"
     },
     {
         pname:"Royal Queen Black Chair",
@@ -61,8 +61,8 @@ const ProductsData = [
         slug:"Punjabi",
         img:"/images/d5.png",
         stock:1240,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"sofa"
     },
     {
         pname:"White Luxury Sofa",
@@ -74,8 +74,8 @@ const ProductsData = [
         slug:"Payjama",
         img:"/images/d6.png",
         stock:0,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"chair"
     },
     {
         pname:"Queen Black Chair",
@@ -87,8 +87,8 @@ const ProductsData = [
         slug:"Watch",
         img:"/images/d7.png",
         stock:48,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"sofa"
     },
     {
         pname:"Wooden Yellow Comfort",
@@ -100,8 +100,8 @@ const ProductsData = [
         slug:"Tshirt",
         img:"/images/d8.png",
         stock:96,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"sofa"
     },
     {
         pname:"Luxury Sofa",
@@ -113,8 +113,8 @@ const ProductsData = [
         slug:"PoloShirt",
         img:"/images/d5.png",
         stock:124,
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
-        
+        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+        category:"chair"
     },
 ]
 
