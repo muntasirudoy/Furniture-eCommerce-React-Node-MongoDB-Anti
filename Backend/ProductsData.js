@@ -13,7 +13,8 @@ const ProductsData = [
         category:"Wardrobe",
         sold:102,
         discout:"10%",
-        cupon:"SalaGorib"
+        cupon:"SalaGorib",
+        shipping: 10
     },
     {
         pname:"Four Door Wardrobe",
@@ -29,7 +30,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Orange Classic Sofa",
@@ -45,7 +47,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Royal Ash Sofa",
@@ -61,7 +64,8 @@ const ProductsData = [
         category:"stool",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Royal Queen Black Chair",
@@ -77,7 +81,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"10%",
-        cupon:"SalaGorib"
+        cupon:"SalaGorib",
+        shipping: 50
     },
     {
         pname:"White Luxury Sofa",
@@ -93,7 +98,8 @@ const ProductsData = [
         category:"chair",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Queen Black Chair",
@@ -109,7 +115,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Fokinni"
+        cupon:"Fokinni",
+        shipping: 50
     },
     {
         pname:"Wooden Yellow Comfort",
@@ -125,7 +132,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Luxury Sofa",
@@ -141,7 +149,8 @@ const ProductsData = [
         category:"chair",
         sold:102,
         discout:"15%",
-        cupon:"Fokinni"
+        cupon:"Fokinni",
+        shipping: 50
     },
 
     {
@@ -158,7 +167,8 @@ const ProductsData = [
         category:"Wardrobe",
         sold:102,
         discout:"10%",
-        cupon:"SalaGorib"
+        cupon:"SalaGorib",
+        shipping: 50
     },
     {
         pname:"Four Door Wardrobe",
@@ -174,7 +184,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Orange Classic Sofa",
@@ -190,7 +201,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Royal Ash Sofa",
@@ -206,7 +218,8 @@ const ProductsData = [
         category:"stool",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Royal Queen Black Chair",
@@ -222,7 +235,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"10%",
-        cupon:"SalaGorib"
+        cupon:"SalaGorib",
+        shipping: 50
     },
     {
         pname:"White Luxury Sofa",
@@ -238,7 +252,8 @@ const ProductsData = [
         category:"chair",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Queen Black Chair",
@@ -254,7 +269,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Fokinni"
+        cupon:"Fokinni",
+        shipping: 50
     },
     {
         pname:"Wooden Yellow Comfort",
@@ -270,7 +286,8 @@ const ProductsData = [
         category:"sofa",
         sold:102,
         discout:"15%",
-        cupon:"Gorib"
+        cupon:"Gorib",
+        shipping: 50
     },
     {
         pname:"Luxury Sofa",
@@ -286,7 +303,8 @@ const ProductsData = [
         category:"chair",
         sold:102,
         discout:"15%",
-        cupon:"Fokinni"
+        cupon:"Fokinni",
+        shipping: 50
     },
 
 
